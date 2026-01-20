@@ -1,2 +1,2 @@
 # school-rp
-Designer in school
+Designed in school
