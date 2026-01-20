@@ -7,6 +7,4 @@ rm -rf target/
 echo "Creating Pack..."
 mkdir target
 cd pack
-zip -r ../target/CheapDesign-${PREVIEW_VERSION}.zip .
-cd ..
-cp target/CheapDesign-${PREVIEW_VERSION}.zip target/CheapMC-${PREVIEW_VERSION}.zip
+zip -r ../target/ShoolRP-${PREVIEW_VERSION}.zip .
